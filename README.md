@@ -8,8 +8,8 @@
 
  <p>
   <a href="https://github.com/Rafarello" target="blank">
-   <img  margin="0" height="180em"src="https://github-readme-stats.vercel.app/api?username=rafarello&show_icons=true&locale=en" alt="rafarello" />
-   <img  margin="0" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs?username=rafarello&show_icons=true&locale=en&layout=compact" alt="rafarello" />
+   <img  margin="0" width="48%" height="180em"src="https://github-readme-stats.vercel.app/api?username=rafarello&show_icons=true&locale=en" alt="rafarello" />
+   <img  margin="0" width="48%" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs?username=rafarello&show_icons=true&locale=en&layout=compact" alt="rafarello" />
   </a>
  </p>
 
