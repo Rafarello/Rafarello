@@ -1,7 +1,5 @@
-<h1 align="center">Olá Mundo!👋, Meu nome é Rafael e sejam bem vindos ao meu Github!</h1>
-<h3 align="center">Sou um Engenheiro Mecânico em transição de carreira para a área de Desenvolvimento WEB</h3>
-
-
+<h1 align="center">Olá Mundo!👋 </br>  Meu nome é Rafael e sejam bem vindos ao meu Github!</h1>
+<h3 align="center"> ⚡ Sou um Engenheiro Mecânico em transição de carreira para a área de Desenvolvimento WEB</h3>
 
 </br>
 </br>
